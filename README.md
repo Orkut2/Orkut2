@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: a human tooth is worth 36 kCalories
+- ⚡ Fun fact: a human tooth is worth 36 Calories
 
 <!---
 Orkut2/Orkut2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
